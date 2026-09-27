@@ -49,7 +49,7 @@ View full package comparisons and purchase your license key on our [Pricing Page
 - **Pricing & Packages:** [Pricing Page](https://www.samplex.rf.gd/pricing/pilgrimsstack.html)
 - **Privacy Policy:** [Read Privacy Policy](https://www.samplex.rf.gd/pricing/pilgrimsstack.html#privacy)
 - **Terms & Conditions:** [Read Terms & Conditions](https://www.samplex.rf.gd/pricing/pilgrimsstack.html#terms)
-- **Live Support / Purchase:** [Chat on WhatsApp (+8801576672978)](https://wa.me/8801576672978)
+- **Live Support / Purchase:** [Chat on WhatsApp (https://wa.me/8801576672978)
 
 ## 👨‍💻 Developer Information
 
