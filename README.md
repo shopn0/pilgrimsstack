@@ -117,7 +117,7 @@ Pilgrims' Stack operates on a straightforward commercial model with zero hidden 
 - 🏷️ **Pricing & Features:** [Pricing Page](https://www.samplex.rf.gd/pricing/pilgrimsstack.html)
 - 📜 **Privacy Policy:** [Read Privacy Policy](https://www.samplex.rf.gd/pricing/pilgrimsstack.html#privacy)
 - ⚖️ **Terms & Conditions:** [Read Terms & Conditions](https://www.samplex.rf.gd/pricing/pilgrimsstack.html#terms)
-- 💬 **Live Support & Sales:** [Chat on WhatsApp (+8801576672978)](https://wa.me/8801576672978)
+- 💬 **Live Support & Sales:** [Chat on WhatsApp](https://wa.me/8801576672978)
 
 ---
 
@@ -127,7 +127,7 @@ Developed and maintained by **SampleX IT Solutions**:
 
 - **Company:** [SampleX IT Solutions](https://samplex.rf.gd/)
 - **Developer:** [Shopno](https://github.com/shopn0/)
-- **Direct WhatsApp:** [+880 1576-672978](https://wa.me/8801576672978)
+- **Direct Message:** [Whatsapp](https://wa.me/8801576672978)
 
 ---
 
