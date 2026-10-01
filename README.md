@@ -36,7 +36,7 @@
 - 🏷️ **Bulk Actions & Tagging System:** Multi-select pilgrims to batch-update status flags, assign custom color-coded agency tags, or manage records in bulk.
 - 📁 **Complete Document Vault:** Upload, organize, preview, and access Profile Pictures, Passports, Birth Certificates, and NID cards directly in one place.
 - 🖨️ **Embassy-Ready Printable Reports:** Generate clean, formatted printable tables of your pilgrim rosters—complete with photos, tracking IDs, and serial numbers—ready for official agency and embassy submissions.
-- 💾 **Safe Backup & Restore:** Package your entire database and all document files into a portable standalone `.bwbackup` archive to seamlessly migrate or restore to any PC.
+- 💾 **Safe Backup & Restore:** Package your entire database and all document files into a portable standalone `.psbackup` archive to seamlessly migrate or restore to any PC.
 
 ---
 
