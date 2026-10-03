@@ -104,8 +104,9 @@ Pilgrims' Stack operates on a straightforward commercial model with zero hidden 
 
 | Package | Duration | Price | Highlights |
 | :--- | :---: | :---: | :--- |
-| **AMANAH** | 6 Months | ৳ 4,500 | Full access, unlimited records, local storage & updates |
-| **BARAKAH** | 1 Year | ৳ 8,000 | **Best Value** — Priority support, full year uninterrupted access |
+| **WAFA** | 1 Month | ৳ 799 | Flexible monthly access with all core offline features and standard support |
+| **AMANAH** | 1 Year | ৳ 8,999 | **Most Popular** — Full year access, dedicated email support. On-demand customizations available (extra charges apply) |
+| **BARAKAH** | Lifetime | ৳ 12,999 | **Best Value** — Uninterrupted lifetime access, priority remote IT & email support. Enhanced custom features available on demand (extra charges apply) |
 
 👉 To review detailed package information or purchase a key, visit the **[Pricing Page](https://www.samplex.rf.gd/pricing/pilgrimsstack.html)**.
 
@@ -113,7 +114,7 @@ Pilgrims' Stack operates on a straightforward commercial model with zero hidden 
 
 ## 🔗 Important Links
 
-- 🌐 **Official Website:** [samplex.rf.gd](https://samplex.rf.gd/)
+- 🌐 **Official Website:** [SampleX](https://samplex.rf.gd/)
 - 🏷️ **Pricing & Features:** [Pricing Page](https://www.samplex.rf.gd/pricing/pilgrimsstack.html)
 - 📜 **Privacy Policy:** [Read Privacy Policy](https://www.samplex.rf.gd/pricing/pilgrimsstack.html#privacy)
 - ⚖️ **Terms & Conditions:** [Read Terms & Conditions](https://www.samplex.rf.gd/pricing/pilgrimsstack.html#terms)
@@ -127,7 +128,7 @@ Developed and maintained by **SampleX IT Solutions**:
 
 - **Company:** [SampleX IT Solutions](https://samplex.rf.gd/)
 - **Developer:** [Shopno](https://github.com/shopn0/)
-- **Direct Message:** [Whatsapp](https://wa.me/8801576672978)
+- **Direct Message:** [WhatsApp](https://wa.me/8801576672978)
 
 ---
 
